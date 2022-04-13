@@ -1,5 +1,12 @@
-// TCP client Example
-// 1:1 Communication
+
+/**
+ *  Name : tcpcA.cpp
+ *  Date : 2022-04-13
+ *  Author : Jihyun Park(mmmszip@gmail.com)
+ *
+ *  TCP client Example
+ *  1:1 Communication
+ */
 
 
 #include <stdio.h>

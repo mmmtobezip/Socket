@@ -1,6 +1,13 @@
-// Asyncronous Server with MySQL extension
-// log table (timestamp, delta, id)
-// message format "id delta")
+
+/**
+ *  Name : main.cpp
+ *  Date : 2022-04-13
+ *  Author : Jihyun Park(mmmszip@gmail.com)
+ *
+ *  Asyncronous Server with MySQL extension
+ *  log table (timestamp, delta, id)
+ *  message format "id delta")
+ */
 
 #define DB_HOST "127.0.0.1"
 #define DB_USER "root"
