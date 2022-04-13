@@ -6,4 +6,4 @@
 > 1 to 1 Communication
 
 > Asynchronous Socket Programming
->>Asyncronous Server with MySQL extension
+>> Asyncronous Server with MySQL extension 
